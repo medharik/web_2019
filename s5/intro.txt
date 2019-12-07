@@ -1,0 +1,9 @@
+/* CSS : CASCADING STYLE SHEETS : FEUILLES DE STYLE EN CASCADE
+=> role : permet de definir la presentation graphique (style) des pages web (html, xml,...)
+AVATNGES :
+- SEPARER le code du style du code du coontenu (html)
+- PERMET , aussi (dans sa version 3 ) , de remplacer des techniques 
+utilisées par des logiciels comme
+photoshop( comme le degrade , arrondi , opacité,...) ,
+- permet aussi , de concevoir deds effets visuels et animations */
+
