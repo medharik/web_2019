@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  width: 100vw;
+  height: 100vh;
+  background: url("back1.jpg");
+  display: flex;
+}
+#contenu {
+  width: 650px;
+  background: rgba(0, 0, 0, 0.1);
+  margin: auto;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  text-shadow: 2px 2px 4px black;
+  letter-spacing: 2px;
+}
+
+#contenu h2 {
+  font-family: "Roboto", sans-serif;
+  line-height: 45px;
+  font-size: 18px;
+  font-weight: bolder;
+}
+#contenu h1 {
+  font-family: "Lato", sans-serif;
+  font-size: xx-large;
+  line-height: 25px;
+}
+#contenu p {
+  font-family: "Lato", sans-serif;
+  line-height: 23px;
+  margin-top: 22px;
+  font-size: 0.9em;
+}

@@ -1,0 +1,22 @@
+body {
+  background: #ede7e7;
+}
+h1 {
+  text-align: center;
+  color: #668ca7;
+}
+div {
+  text-align: center;
+}
+img {
+  width: 1000px;
+  border-radius: 10px;
+}
+p {
+  border: solid 2px #269df1;
+  background: #f5fbff;
+  padding: 16px;
+  width: 962px;
+  /* pour centrer un bloc */
+  margin: 10px auto;
+}

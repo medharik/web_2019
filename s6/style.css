@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  width: 100%;
+  height: 50px;
+  background: black;
+}
+main {
+  width: 1200px;
+  min-height: 500px;
+  background: rgb(214, 213, 213);
+  margin: auto;
+}
+
+section {
+  width: 100%;
+  min-height: 400px;
+  background: rgb(233, 230, 230);
+  border: 2px solid black;
+  margin: auto;
+}
+#pub {
+  background: orangered;
+}
+#prod {
+  background: deepskyblue;
+}
+#droite {
+  width: 50%;
+  height: 500px;
+  background: rgb(92, 90, 90);
+  float: right;
+}
+#gauche {
+  float: left;
+  width: 50%;
+  height: 500px;
+  background: rgb(167, 120, 127);
+}
+footer {
+  width: 100%;
+  height: 200px;
+  background: black;
+}
