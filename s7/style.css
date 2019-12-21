@@ -6,7 +6,6 @@
 #container {
   width: 100vw;
   height: 100vh;
-  background: url("back1.jpg");
   display: flex;
 }
 #contenu {
@@ -36,4 +35,16 @@
   line-height: 23px;
   margin-top: 22px;
   font-size: 0.9em;
+}
+#v {
+  width: 100%;
+  height: 100%;
+  background: yellow;
+  position: fixed;
+  z-index: -9;
+}
+#v video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
