@@ -60,7 +60,6 @@
 #menu ul {
   list-style: none;
 }
-
 #menu ul li {
   border: 1px solid black;
 
@@ -75,4 +74,35 @@
 }
 #menu ul li a:hover {
   background: #718a5f;
+}
+
+#produits {
+  width: 100vw;
+  min-height: 100vh;
+  /* background: grey; */
+}
+#contact {
+  width: 100vw;
+  height: 100vh;
+  background: rgb(75, 66, 66);
+}
+
+.phone {
+  width: 33.33%;
+  height: 400px;
+  border: 2px solid black;
+  /* pour garder les memes dimension meme si on ajoute la bordure */
+  box-sizing: border-box;
+  /* display: inline-block; */
+  float: left;
+  text-align: center;
+  background: rgba(8, 8, 8, 0.5);
+  color: white;
+}
+.phone img {
+  height: 340px;
+}
+
+.n {
+  clear: both;
 }
